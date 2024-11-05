@@ -1,4 +1,3 @@
-# Hibernate-CRUD-Operations-with-Modular-Approach
 Hibernate CRUD Operations Project
 <h1>Hibernate CRUD Operations with Modular Approach</h1>
 
