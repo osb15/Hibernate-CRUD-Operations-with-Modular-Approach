@@ -134,6 +134,3 @@ src/
         </ul>
     </li>
 </ol>
-
-<p><strong>Note</strong>: This is a basic example of a modular approach with Hibernate. For production environments, you may want to implement error handling, validation, and use dependency injection frameworks like Spring to manage beans more effectively.</p>
-
